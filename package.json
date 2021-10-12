@@ -1,0 +1,22 @@
+{
+  "name": "otussort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --max-old-space-size=50 src/index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbntv/otussort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbntv/otussort/issues"
+  },
+  "homepage": "https://github.com/vbntv/otussort#readme",
+  "dependencies": {
+  }
+}
